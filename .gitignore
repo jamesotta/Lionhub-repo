@@ -2,7 +2,14 @@
 /vendor
 composer.phar
 composer.lock
+<<<<<<< HEAD
 .env.local.php
 .env.php
 .DS_Store
 Thumbs.db
+=======
+.env.*.php
+.env.php
+.DS_Store
+Thumbs.db
+>>>>>>> edfffa661cf2d9d994a142575a71d6e5f2dfbae8
