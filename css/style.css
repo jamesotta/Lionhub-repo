@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'fashion';
+    src:url('../fonts/icons-small/fashion.eot');
+    src:url('../fonts/icons-small/fashion.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/icons-small/fashion.svg#fashion') format('svg'),
+    url('../fonts/icons-small/fashion.woff') format('woff'),
+    url('../fonts/icons-small/fashion.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
